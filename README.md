@@ -1,7 +1,6 @@
 # DLSS-Enabler
 
 [![Build DLSS-Enabler Installer](https://github.com/BtaWlf/DLSS-Enabler/actions/workflows/build-installer.yml/badge.svg)](https://github.com/BtaWlf/DLSS-Enabler/actions/workflows/build-installer.yml)
-[![Monitor OptiScaler](https://github.com/BtaWlf/DLSS-Enabler/actions/workflows/monitor-optiscaler.yml/badge.svg)](https://github.com/BtaWlf/DLSS-Enabler/actions/workflows/monitor-optiscaler.yml)
 
 Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.
 
@@ -14,7 +13,7 @@ This repository now features **automated builds** that keep DLSS-Enabler up-to-d
 ### 📦 Download Latest Release
 
 **Recommended**: Download the latest pre-built installer from the [Releases](../../releases) page. These installers are automatically built with:
-- ✅ Latest OptiScaler (nightly or stable versions)
+- ✅ Latest OptiScaler (nightly and/or stable versions)
 - ✅ Latest XeSS library from Intel
 - ✅ All required components pre-configured
 
